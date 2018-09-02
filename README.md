@@ -1,5 +1,5 @@
-# hello-world
-repository for studying GitHub
+# Hello World
+repository for studying GitHub and blog
 
 I changed somethings.
-And a letter was deleted?
+And was a letter deleted?
